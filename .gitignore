@@ -1,4 +1,5 @@
 /.bundle
+/.project
 /.ruby-version
 /spec/fixtures/.librarian
 /spec/fixtures/.tmp
